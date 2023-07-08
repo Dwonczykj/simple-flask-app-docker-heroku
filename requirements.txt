@@ -19,7 +19,7 @@ executing==1.2.0
 Flask==2.2.3
 Flask-RESTful==0.3.6
 fst-pso==1.8.1
-future==0.17.1
+future==0.18.3
 FuzzyTM==2.0.5
 gensim==4.3.1
 icecream==2.1.3
