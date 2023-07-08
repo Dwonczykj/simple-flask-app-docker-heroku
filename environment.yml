@@ -1,0 +1,16 @@
+name: simple-flask-app-conda-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  # - setuptools=58
+  - setuptools=68.0.0=pyhd8ed1ab_0
+  - setuptools-scm=7.1.0=pyhd8ed1ab_0
+  - setuptools_scm=7.1.0=hd8ed1ab_0
+  - gunicorn
+  - conda-lock
+  - setuptools_scm
+  - flask
+  - python=3.8
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/simple-flask-app-conda-env
